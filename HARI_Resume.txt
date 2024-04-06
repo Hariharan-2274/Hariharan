@@ -1,1 +1,2 @@
-Name : S.Hariharan
+Name : S.Hariharan 
+CLASS: B.Sc Physics
